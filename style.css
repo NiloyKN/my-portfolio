@@ -49,3 +49,11 @@ p{
     border-radius: 10px;
     height: 80%;
 }
+
+@media(max-with:768px){
+    .responsive{
+        grid-template-columns: 1;
+        gr
+        display: block;
+    }
+}
